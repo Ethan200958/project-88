@@ -1,0 +1,35 @@
+.body_background 
+{    
+    background-image: url("avengersbackground.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+    border-color: red;
+}
+
+h2
+{
+	border-radius: 20px;
+	width: 300px;
+	padding: 10px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: blue;	
+}
+
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
